@@ -1,0 +1,1 @@
+this is the content of doc5.txt, note that we don't have doc4.txt because we removed it when we trained doing the reset
